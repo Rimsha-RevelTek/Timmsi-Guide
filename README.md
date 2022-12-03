@@ -2,9 +2,7 @@
 This is a Guide for Timmsi, a digital SMILE Space for those who want to Learn & Earn. This guide helps those understand how they can start their career with small steps in a self-motivated impact learning space (SMILE) Space.
 
 ### What is Timmsi?
-
-
-[silkcorp.org](https://timmsi.com)
+[timmsi.com](https://timmsi.com)
 ___
 
 ## Contributing
