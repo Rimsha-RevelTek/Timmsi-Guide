@@ -4,7 +4,7 @@ This is a Guide for Timmsi, a digital SMILE Space for those who want to Learn & 
 ### What is Timmsi?
 
 
-[silkcorp.org](https://timmsi.com)
+[timmsi.com](https://timmsi.com)
 ___
 
 ## Contributing
