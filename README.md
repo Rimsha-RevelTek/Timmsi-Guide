@@ -11,6 +11,7 @@ ___
 > We welcome Pull Requests from everyone, whether you are a student, a teacher, or an expert in the field. When first making a pull request, please keep it short &amp; brief as we establish a relationship. 
 >
 > :money_mouth_face: $\color{green}{Want}$ $\color{green}{to}$ $\color{green}{Make}$ $\color{green}{Money!?}$- We provide compensation for substantial contributions to our projects. Add a USDT Coin Account in your Profile Bio to be compensated. 
+> - Go to [Binance](https://accounts.binance.com/en/register) and register yourself.
 > - [Where to find my USDT Wallet Address?](https://www.followchain.org/binance-wallet-address) 
 > - [Sample GitHub Profile with USDT Wallet](https://github.com/yennefer-m)
 
