@@ -41,3 +41,10 @@
   
     3.2   ![image](https://user-images.githubusercontent.com/117187551/209672250-efb5da44-4096-4a20-9aef-956c70daf488.png)
   - [USDT Wallet on Profile Page Example](https://github.com/Remy-Reveltek)
+
+## 4. How to get a Binance Pay ID
+- Navigate to the "Finance" tab and select "Binance Pay" from the dropdown menu.
+
+    4.1   ![image](https://user-images.githubusercontent.com/117187551/233680197-02ec54f4-282b-497d-b924-231300599e9a.png)
+
+- Your Binance Pay ID will be displayed on the screen. You can copy and share it with others to receive payments.
